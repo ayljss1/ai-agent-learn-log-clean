@@ -57,3 +57,4 @@ FastAPI 会向该地址发送请求：
 bash
 
 http://localhost:11434/api/generate
+
